@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WidgetToImage",
+	"Description": "Unreal Engine plugin for exporting widgets as image files.",
+	"Category": "Other",
+	"CreatedBy": "Metaseven",
+	"CreatedByURL": "https://twitter.com/suramaru517",
+	"DocsURL": "https://github.com/suramaru517/WidgetToImage",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "WidgetToImage",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
